@@ -57,7 +57,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 DONE * [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting.
 
 DONE * [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
+
+DONE * [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 * [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 * [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
 * [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
