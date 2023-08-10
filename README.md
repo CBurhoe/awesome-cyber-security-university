@@ -61,7 +61,8 @@ DONE * [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1
 DONE * [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
 
 DONE * [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
+
+DONE * [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
 * [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
 * [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
